@@ -1,8 +1,8 @@
 <script setup>
 const courses = [
-  { img: '/assets/images/programm.png', title: 'Веб Программирование', text: 'Создание сайтов и веб приложений' },
-  { img: '/assets/images/smm.png', title: 'Интернет Маркетинг', text: 'SMM и реклама в соц сетях' },
-  { img: '/assets/images/drop.png', title: 'Дропшиппинг', text: 'Работа с рынками Китая' },
+  { img: '@/assets/images/programm.png', title: 'Веб Программирование', text: 'Создание сайтов и веб приложений' },
+  { img: '@/assets/images/smm.png', title: 'Интернет Маркетинг', text: 'SMM и реклама в соц сетях' },
+  { img: '@/assets/images/drop.png', title: 'Дропшиппинг', text: 'Работа с рынками Китая' },
 ]
 </script>
 
